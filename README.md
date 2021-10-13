@@ -1,4 +1,3 @@
 # gittest_master_update_it
 master
-feature1
-feature1
+master1
